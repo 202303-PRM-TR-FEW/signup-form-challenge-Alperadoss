@@ -5,3 +5,13 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+body {
+  background-color: hsl(0, 100%, 74%);
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
